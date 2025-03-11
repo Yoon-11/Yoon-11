@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-11&layout=compact)<br>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-11&layout=compact" alt="Top Langs">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Yoon-11&show_icons=true" alt="Anurag's GitHub stats">
   
 </div>
