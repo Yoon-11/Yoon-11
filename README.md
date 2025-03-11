@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&text=Welcome😊)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Good+to+see+you&fontSize=90)
 
 <div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-11&layout=compact)<br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Yoon-11&show_icons=true" alt="Anurag's GitHub stats">
+  
 </div>
+
+
 
 <div align=center><h1>📚 STUDYING</h1></div>
 <div align=center>
@@ -34,8 +39,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
 </div>
-
-
-
 
 
