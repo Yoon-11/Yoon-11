@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90)
+-->
 
 <div align="center">
   
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<div align=center><h1>📚 STUDYING</h1></div>
+<div align=center><h1>📚 Stacks</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
